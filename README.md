@@ -1,6 +1,8 @@
 # Educational-Information-Management-System
 # 教务信息管理系统c/c++
-> ### 注意：请使用code:bolcks打开 txt文档储存编码方式请使用ANSI。
+> ### 注意：请使用code:bolcks打开  
+> ## 初始登陆账号为001，密码为002  
+> ### txt文档储存编码方式请使用ANSI。
 > ### 您可以通过以下方式联系我
 > gamil: shuhai.stack@gmail.com  
 > qqmail: 562569322@qq.com  
